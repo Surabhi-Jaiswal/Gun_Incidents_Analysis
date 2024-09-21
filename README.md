@@ -1,4 +1,3 @@
-```md
 # Gun Incidents Data Analysis
 
 This repository contains a comprehensive data analysis and visualization of gun-related incidents from 2017 to 2019. The dataset includes various attributes such as age, gender, race, education, reason for the incident, and police involvement, providing insight into critical patterns and trends.
